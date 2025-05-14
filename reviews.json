@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Tarekul Islam Emou",
+        "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=100&h=100&q=80",
+        "rating": 5,
+        "text": "Chittagong er serah Burger! I love the Classic Cheeseburger, The service is also excellent."
+    },
+    {
+        "id": 2,
+        "name": "Saiful Islam Pirate",
+        "image": "https://images.unsplash.com/photo-1603415526960-f8f0a7090c59?ixlib=rb-4.0.3&auto=format&fit=crop&w=100&h=100&q=80",
+        "rating": 4,
+        "text": "Eillah mojar burger r no hai honumikka. Would definitely recommend to friends and family."
+    },
+    {
+        "id": 3,
+        "name": "Mynul Panda",
+        "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=100&h=100&q=80",
+        "rating": 5,
+        "text": "Amazing burgers and friendly staff! I come here at least once a week."
+    },
+    {
+        "id": 4,
+        "name": "Mugdha Intiser",
+        "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=100&h=100&q=80",
+        "rating": 4,
+        "text": "Love the Veggie Supreme! As a vegetarian, it's hard to find good burger options, but this place nails it."
+    },
+    {
+        "id": 5,
+        "name": "Jashim Uddin",
+        "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=100&h=100&q=80",
+        "rating": 5,
+        "text": "The BBQ Pulled Pork burger is incredible. The meat is so tender and the sauce is perfect. Highly recommend!"
+    }
+]
