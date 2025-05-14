@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Classic Cheeseburger",
+        "description": "Juicy beef patty with melted cheese, lettuce, tomato, and our special sauce",
+        "price": 350,
+        "image": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=300&h=300&q=80"
+    },
+    {
+        "id": 2,
+        "name": "Double Bacon Deluxe",
+        "description": "Two beef patties with crispy bacon, cheddar cheese, and BBQ sauce",
+        "price": 480,
+        "image": "https://images.unsplash.com/photo-1553979459-d2229ba7433b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=300&h=300&q=80"
+    },
+    {
+        "id": 3,
+        "name": "Spicy Chicken Burger",
+        "description": "Crispy chicken fillet with spicy sauce, pickles, and coleslaw",
+        "price": 380,
+        "image": "https://images.unsplash.com/photo-1606755962773-d324e0a13086?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=300&h=300&q=80"
+    },
+    {
+        "id": 4,
+        "name": "Veggie Supreme",
+        "description": "Plant-based patty with avocado, roasted peppers, and vegan mayo",
+        "price": 320,
+        "image": "https://images.unsplash.com/photo-1585238342024-78d387f4a707?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=300&h=300&q=80"
+    },
+    {
+        "id": 5,
+        "name": "Mushroom Swiss",
+        "description": "Beef patty topped with sautéed mushrooms and Swiss cheese",
+        "price": 420,
+        "image": "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=300&h=300&q=80"
+    },
+    {
+        "id": 6,
+        "name": "BBQ Pulled Pork",
+        "description": "Slow-cooked pulled pork with BBQ sauce and crispy onion rings",
+        "price": 450,
+        "image": "https://images.unsplash.com/photo-1513185041617-8ab03f83d6c5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=300&h=300&q=80"
+    }
+]
